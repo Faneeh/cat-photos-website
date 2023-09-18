@@ -1,13 +1,27 @@
 body {
-  font-family: "Inclusive Sans";
+  font-family: "Open Sans";
+  height: 100vh;
+  background-color: grey;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: large;
+}
+
+.logo {
+  background-color: #00b2ff;
 }
 
 .header-left {
   display: flex;
   justify-content: space-between;
+  gap: 50%;
+}
+
+.spanh {
+  background-color: #00b2ff;
 }
