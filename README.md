@@ -1,1 +1,1 @@
-# cat-photos-website
+This repos acts as a storage space for my awesome cat-photos-website that you should check out
