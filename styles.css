@@ -30,3 +30,11 @@ body {
   border-radius: 10%;
   height: 25px;
 }
+
+.cats-like-title {
+  margin-top: 10%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  color: #00b2ff;
+}
