@@ -53,3 +53,7 @@ body {
   height: 300px;
   width: 400px;
 }
+
+.cat-img-text {
+  align-self: flex-end;
+}
