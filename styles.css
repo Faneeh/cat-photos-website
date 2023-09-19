@@ -57,3 +57,12 @@ body {
 .cat-img-text {
   align-self: flex-end;
 }
+
+.cats-like-text {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 16%;
+  margin-right: 15%;
+  color: #00b2ff;
+  font-weight: bold;
+}
