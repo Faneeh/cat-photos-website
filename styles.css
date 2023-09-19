@@ -37,4 +37,19 @@ body {
   display: flex;
   justify-content: center;
   color: #00b2ff;
+  height: 30vh;
+  margin-bottom: -13%;
+}
+
+.cats-like {
+  margin-top: 0%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.cat-img {
+  height: 300px;
+  width: 400px;
 }
