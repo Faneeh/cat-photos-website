@@ -66,3 +66,39 @@ body {
   color: #00b2ff;
   font-weight: bold;
 }
+
+.cats-dont-like-title {
+  margin-top: 5%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  color: #00b2ff;
+  height: 30vh;
+  margin-bottom: -13%;
+}
+
+.cats-dont-like {
+  margin-top: 0%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.cat-img {
+  height: 300px;
+  width: 400px;
+}
+
+.cat-img-text {
+  align-self: flex-end;
+}
+
+.cats-dont-like-text {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 16%;
+  margin-right: 15%;
+  color: #00b2ff;
+  font-weight: bold;
+}
