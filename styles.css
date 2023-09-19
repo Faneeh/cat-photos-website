@@ -1,7 +1,14 @@
 body {
   font-family: "Open Sans";
   height: 100vh;
-  background-color: grey;
+  background-image: linear-gradient(
+    to bottom,
+    #8e8e8e,
+    #95a0b4,
+    #82b7d7,
+    #56d1ec,
+    #12ebeb
+  );
 }
 
 .header {
@@ -101,4 +108,12 @@ body {
   margin-right: 15%;
   color: #00b2ff;
   font-weight: bold;
+}
+
+.contact-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  background-color: white;
 }
